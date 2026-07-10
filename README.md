@@ -2,6 +2,8 @@
 
 A simple weather app built with React, TypeScript, and Vite. Search any city and see current conditions plus a 5-day forecast.
 
+**Live demo:** https://weather-app-sooty-delta-39.vercel.app/
+
 ## Features
 
 - Search for a city by name
